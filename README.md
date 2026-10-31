@@ -1,4 +1,4 @@
-# KeyDrop — React + Redux E-commerce Lab
+# KeyDrop — React + Redux E-commerce 
 
 **Student:** Saadi Okail
 
